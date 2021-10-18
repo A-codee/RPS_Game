@@ -1,5 +1,5 @@
 import random
-#C:\Users\imhum\PycharmProjects\demo1
+
 def play():
     user = input("What's your choice? 'r' is for rock , 'p' is for paper, 's' is for scissors\n ")
     computer = random.choice(['r','p','s'])
